@@ -1,0 +1,35 @@
+<!doctype html>
+<!-- WLLM station ident page. Served by GitHub Pages from this repo.
+     Replace assets/logo.jpg and assets/jingle.mp4 with your own station's
+     files to reuse this page for another station. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WLLM · Brainy Radio</title>
+<meta name="description" content="WLLM, Brainy Radio: station ident.">
+<meta property="og:title" content="WLLM · Brainy Radio">
+<meta property="og:image" content="assets/logo.jpg">
+<link rel="icon" href="assets/logo.jpg">
+<style>
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: radial-gradient(ellipse at center, #1a2a33 0%, #061733 75%);
+    color: #e8f4f2;
+    font-family: system-ui, sans-serif;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 1rem; padding: 1rem; box-sizing: border-box;
+  }
+  video {
+    width: 100%; max-width: 960px; aspect-ratio: 16 / 9;
+    border-radius: 12px; background: #061733;
+    box-shadow: 0 0 40px rgba(46, 230, 160, 0.25);
+  }
+  p { margin: 0; opacity: 0.7; font-size: 0.95rem; letter-spacing: 0.04em; }
+</style>
+</head>
+<body>
+  <video src="assets/jingle.mp4" poster="assets/logo.jpg" controls playsinline preload="metadata"></video>
+  <p>WLLM · Brainy Radio · Tap play for the station ident</p>
+</body>
+</html>

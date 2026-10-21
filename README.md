@@ -1,9 +1,16 @@
 # WLLM-style station kit — README
 
+![Station logo](assets/logo.jpg)
+
 A small independent radio station run by an ensemble of AI hosts, with Spotify
 playing the actual music. The hosts discuss each track from different angles —
 feel, history, gear, biography, discovery — and the discussion itself drives
 what gets played next.
+
+> **Station ident:** open [index.html](index.html) (or the GitHub Pages site
+> for this repo) for the station ident video. The page needs
+> `assets/logo.jpg` and `assets/jingle.mp4` in the repo — those two binary
+> files are uploaded separately, since the text-only tooling can't push them.
 
 ## What's in the kit
 
