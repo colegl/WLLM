@@ -7,12 +7,23 @@ playing the actual music. The hosts discuss each track from different angles —
 feel, history, gear, biography, discovery — and the discussion itself drives
 what gets played next.
 
+## Try it in one step (no editing, no setup)
+
+**QUICKSTART.md** is a complete, pre-configured station — same hosts, same
+ident, same rules as the station this kit came from. Nothing in it needs to
+be filled in, renamed, or uploaded.
+
+1. Open a new side chat in Muse.
+2. Attach QUICKSTART.md and send one message: `Run this station.`
+
+That's the whole install. Hear it work first; customize second.
+
 > **Station ident:** open [index.html](index.html) (or the GitHub Pages site
 > for this repo) for the station ident video. The page needs
 > `assets/logo.jpeg` and `assets/jingle.mp4` in the repo — those two binary
 > files are uploaded separately, since the text-only tooling can't push them.
 
-## What's in the kit
+## Make it your own
 
 - **SETUP-TEMPLATE.md** — the station setup: the five hosts, how they talk,
   how the mic is chosen, the honesty rules, the station ident, the Spotify
@@ -27,7 +38,7 @@ what gets played next.
 - A side chat dedicated to the station, so the ident, voices, and transcripts
   stay separate from your other conversations.
 
-## Getting on air
+## Getting on air (the customize path)
 
 1. Copy this kit and replace the placeholders in SETUP-TEMPLATE.md.
 2. Open a dedicated side chat for the station and give it the setup file.
