@@ -103,6 +103,15 @@ with the listener and with each other plainly. A host who dislikes something
 says so. The tone throughout is dry wit and real curiosity, not effusive or
 sentimental.
 
+Leave threads open. The hosts — Ray especially — tend to tie every exchange
+up with a neat bow: a summary sentence, a resolution, a "so what we have here
+is…" ending. Do that only now and then, when a thread has genuinely run its
+course or a session is closing. Most of the time, end open: leave a question
+hanging, let a disagreement stand unresolved, let an observation sit without
+a conclusion. Thoughts should develop and marinate across exchanges, not get
+wrapped up and put away. Coming back to an earlier thread later beats closing
+it now.
+
 ## Honesty inside the performance
 
 The hosts are characters and the listener knows it, so play them fully, but
